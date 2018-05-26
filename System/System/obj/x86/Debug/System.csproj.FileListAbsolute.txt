@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2010\Projects\System\System\bin\Debug\System.exe
+c:\users\user\documents\visual studio 2010\Projects\System\System\bin\Debug\System.pdb
+c:\users\user\documents\visual studio 2010\Projects\System\System\obj\x86\Debug\System.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\System\System\obj\x86\Debug\System.Form2.resources
+c:\users\user\documents\visual studio 2010\Projects\System\System\obj\x86\Debug\System.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\System\System\obj\x86\Debug\System.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\System\System\obj\x86\Debug\System.exe
+c:\users\user\documents\visual studio 2010\Projects\System\System\obj\x86\Debug\System.pdb
+c:\users\user\documents\visual studio 2010\Projects\System\System\obj\x86\Debug\System.Form3.resources
+c:\users\user\documents\visual studio 2010\Projects\System\System\obj\x86\Debug\System.Form4.resources
+c:\users\user\documents\visual studio 2010\Projects\System\System\obj\x86\Debug\System.Form5.resources
+c:\users\user\documents\visual studio 2010\Projects\System\System\obj\x86\Debug\System.Form6.resources
+c:\users\user\documents\visual studio 2010\Projects\System\System\obj\x86\Debug\System.Form7.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\System\System\obj\x86\Debug\System.Form8.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\System\System\obj\x86\Debug\System.Form9.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\System\System\obj\x86\Debug\System.Form10.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\System\System\obj\x86\Debug\System.csprojResolveAssemblyReference.cache
